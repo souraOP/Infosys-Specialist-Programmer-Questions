@@ -67,11 +67,11 @@ public class santa {
         for(int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.println(solve(n, k));
+        // System.out.println(solve(n, k));
         sc.close();
     }
 
-    public static int solve(int n, int k) {
+    // public static int solve(int n, int k) {
 
-    }
+    // }
 }
